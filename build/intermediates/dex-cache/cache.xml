@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f71d4c250a2817c3917c83201b1cf35447bb45a5">
+        <dex dex="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d2ddac5bea4f10d8085be6700ee8ee6e4ee96319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25b3d3be4e15b969b04bad2be8f715408648e701/classes.dex" />
+    </item>
+
+</items>
