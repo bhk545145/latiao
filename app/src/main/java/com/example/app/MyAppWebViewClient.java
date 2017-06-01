@@ -1,6 +1,7 @@
 package com.example.app;
 
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.net.Uri;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -13,9 +14,14 @@ public class MyAppWebViewClient extends WebViewClient {
             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
             view.getContext().startActivity(intent);
             return false;
+        }else {
+            view.loadUrl(url);
+            return true;
         }
+    }
 
-        view.loadUrl(url);
-        return false;
+    @Override
+    public void onPageStarted(WebView view, String url, Bitmap favicon) {
+        super.onPageStarted(view, url, favicon);
     }
 }

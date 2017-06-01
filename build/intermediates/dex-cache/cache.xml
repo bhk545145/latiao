@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/baihongkun/github/latiao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f71d4c250a2817c3917c83201b1cf35447bb45a5">
-        <dex dex="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d2ddac5bea4f10d8085be6700ee8ee6e4ee96319/classes.dex" />
+        sha1="be5315597fe2ef3ee3a95c58d157307244d31250">
+        <dex dex="/Users/baihongkun/github/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0c63238089a8ace1bc4551a1c4350fe19430f4b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/baihongkun/github/latiao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/Users/baihk/Documents/下载/webview-master 2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25b3d3be4e15b969b04bad2be8f715408648e701/classes.dex" />
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/baihongkun/github/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc3dafce311616c745b8c6584e08cb1cc444cb26/classes.dex" />
     </item>
 
 </items>
