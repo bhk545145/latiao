@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/baihongkun/github/latiao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="be5315597fe2ef3ee3a95c58d157307244d31250">
-        <dex dex="/Users/baihongkun/github/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0c63238089a8ace1bc4551a1c4350fe19430f4b/classes.dex" />
+        sha1="fc2851b089a73caa26fc0acba02e4213b2f41826">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c17b6a15f9eac5a7c87fe248c3a2b68666e24f3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/baihongkun/github/latiao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Users/baihongkun/github/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc3dafce311616c745b8c6584e08cb1cc444cb26/classes.dex" />
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92c81e4e282d9e0b6644f403c1420c0ab3f1abd1/classes.dex" />
     </item>
 
 </items>
