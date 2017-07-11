@@ -29,5 +29,7 @@ public class MyAppWebViewClient extends WebViewClient {
     public void onPageStarted(WebView view, String url, Bitmap favicon) {
         super.onPageStarted(view, url, favicon);
         MobclickAgent.onPageStart(url);
-    }kend
+    }
+
+
 }
