@@ -9,11 +9,16 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 
+
+
 public class MainActivity extends Activity {
 
     private WebView mWebView;
 
     @Override
+
+
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -28,7 +33,7 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
 
         // Use remote resource
-         mWebView.loadUrl("http://www.yzyp.online/index.php?r=index/wap");
+         mWebView.loadUrl("http://zanpin.izanpin.com/index.php?r=index/wap");
 
         // Stop local links and redirects from opening in browser instead of WebView
          mWebView.setWebViewClient(new MyAppWebViewClient());

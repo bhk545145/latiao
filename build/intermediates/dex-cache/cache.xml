@@ -2,13 +2,58 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/libs/umeng-analytics-v6.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bff754fc05336940a8cb348e455c01515b5d883">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/pre-dexed/release/umeng-analytics-v6.1.1_8a06ce5d72633d57b430963ff4e26e6563abea52.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/libs/utdid4all-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/2/utdid4all-1.0.4_1a9384b73bcf0d22b3c6e0322ea58a9b041ee88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_8e6daa5e8127314751945650f8db986d7f4d9336/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/pre-dexed/release/android-support-v4_8e6daa5e8127314751945650f8db986d7f4d9336.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="30bbc25e0d18e45c26e9de76b3cb9eea999f1ac7">
+        sha1="07a5f1873cd1da821feaabdd2def0895a0ededee">
         <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5c17b6a15f9eac5a7c87fe248c3a2b68666e24f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/libs/umeng-analytics-v6.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4bff754fc05336940a8cb348e455c01515b5d883">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v6.1.1_8a06ce5d72633d57b430963ff4e26e6563abea52/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +63,15 @@
         revision="25.0.0"
         sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
         <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_92c81e4e282d9e0b6644f403c1420c0ab3f1abd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baihk/Documents/baihk/caipiao/latiao/app/libs/utdid4all-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/Users/baihk/Documents/baihk/caipiao/latiao/app/build/intermediates/pre-dexed/release/utdid4all-1.0.4_1a9384b73bcf0d22b3c6e0322ea58a9b041ee88a.jar" />
     </item>
 
 </items>
